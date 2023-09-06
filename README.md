@@ -1,4 +1,4 @@
-# Core_Java_Training
+# Core_Java_Practice
 
 Description - 
 
